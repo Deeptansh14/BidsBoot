@@ -1,0 +1,13 @@
+com/servicebid/apis/controller/UserController.class
+com/servicebid/apis/models/ProductCategory.class
+com/servicebid/apis/controller/ProductController.class
+com/servicebid/apis/repository/ProductCategoryRepository.class
+com/servicebid/apis/models/Person.class
+com/servicebid/apis/models/User.class
+com/servicebid/apis/ApisApplication.class
+com/servicebid/apis/models/Product.class
+com/servicebid/apis/controller/PersonController.class
+com/servicebid/apis/repository/PersonRepository.class
+com/servicebid/apis/repository/ProductRepository.class
+com/servicebid/apis/repository/UserRepository.class
+com/servicebid/apis/controller/ProductCategoryController.class
